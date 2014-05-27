@@ -1,0 +1,20 @@
+{
+	"git-org": "g0v",
+	"deploy": 	
+	{ 
+		"public":
+		{ "meta": "g0v.json",
+			"thumbnail": "screenshot",
+			"fields": 
+				["name_zh", "description_zh", "licenses"],
+			"filter": { "audience": "public" }
+		},
+		"developer":		 
+		{ "meta": "g0v.json",
+			"thumbnail": "screenshot",
+			"fields": 
+				["name_zh", "description_zh", "licenses"],
+			"filter": { "audience": "developer" }
+		}	
+	}
+}
