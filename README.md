@@ -1,4 +1,4 @@
 g0v.pl
 ======
-
-g0v project list
+v 0.0.1
+init for g0v project list
